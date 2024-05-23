@@ -1,0 +1,14 @@
+:root {
+    /* Public Branding (g for green) */
+    --g-bright: #6CE714; /* Alien */
+    --g-mid: #5ACC0D; /* Harlequin */
+    --g-low: #44940A; /* Avocado */ 
+    /* Internal Branding (b for blue) */
+    --b-bright: #0066FF; /* Brandeis */
+    --b-mid: #408DFF; /* Bright Azure */
+    --b-low: #80B3FF; /* French Sky */
+    /* Tones */
+    --w: #E1E1E1; /* Oriental White */
+    --g: #D0D0D0; /* Polar Gray */
+    --b: #0D0D0D; /* Smoky Black */
+}
